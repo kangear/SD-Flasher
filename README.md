@@ -7,3 +7,5 @@ uasge:
 		rm SD-Flasher.pro.user
 		qmake 
 		make 
+		
+TODO: label can use "blkid" 来获取。
